@@ -1,0 +1,10 @@
+# Sensitive
+.env
+
+# Docker volumes (created at runtime)
+prom-data/
+grafana-data/
+
+# OS
+.DS_Store
+Thumbs.db
